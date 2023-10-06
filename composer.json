@@ -1,0 +1,20 @@
+{
+    "name": "oxygenzsas/lang",
+    "description": "php class for traduction with BDD",
+    "license": "MIT",
+    "keywords": ["minimalist","traduction", "lang", "mysql"],
+    "authors": [
+        {
+            "name": "nvanhaezebrouck",
+            "email": "nicolas@oxygenz.fr"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OxygenzSAS\\Lang\\" : "src/"
+        }
+    },
+    "require": {
+        "oxygenzsas/interfaces": "^0.2"
+    }
+}
