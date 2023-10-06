@@ -1,5 +1,5 @@
 {
-    "name": "oxygenzsas/lang",
+    "name": "oxygenzsas/composer_lib_lang",
     "description": "php class for traduction with BDD",
     "license": "MIT",
     "keywords": ["minimalist","traduction", "lang", "mysql"],
