@@ -15,6 +15,6 @@
         }
     },
     "require": {
-        "oxygenzsas/interfaces": "^0.2"
+        "oxygenzsas/composer_lib_interfaces": "^0.2"
     }
 }
